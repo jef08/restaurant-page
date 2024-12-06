@@ -1,2 +1,5 @@
 import "./styles.css";
-console.log("hello");
+
+import startWebsite from "./website-base"
+
+startWebsite();
